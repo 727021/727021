@@ -2,7 +2,7 @@
 ---
 
 - Studying *Computer Science* at *[BYU-Idaho](https://byui.edu)*
-- *TA* for *Web Backend Development II*
+- *TA* for *Web Backend Development II* at *[BYU-Idaho](https://byui.edu)*
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen)](https://727021.github.io)
 [![Github Followers](https://img.shields.io/github/followers/727021?label=Follow&style=social)](https://github.com/727021?tab=followers)
