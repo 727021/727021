@@ -11,7 +11,7 @@
 
 ```javascript
 const _727021 = {
-    code: ["JavaScript", "Java", "C++", "PHP", "Python"],
+    code: ["JavaScript", "Java", "C", "C++", "PHP", "Python", "Emacs Lisp"],
     technologies: {
         mobile: ["Android"],
         frontend: {
