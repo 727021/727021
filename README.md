@@ -15,7 +15,7 @@ const _727021 = {
     technologies: {
         mobile: ["Android"],
         frontend: {
-            js: ["Vue", "jQuery"],
+            js: ["Vue.js", "Nuxt.js", "jQuery"],
             css: ["Vuetify", "Bootstrap"]
         },
         backend: {
