@@ -11,25 +11,20 @@
 
 ```javascript
 const _727021 = {
-    code: ["JavaScript", "Java", "C", "C++", "PHP", "Python", "Emacs Lisp"],
+    code: ['JavaScript', 'Java', 'C', 'C++', 'PHP', 'Python'],
     technologies: {
-        mobile: ["Android"],
+        mobile: ['Android'],
         frontend: {
-            js: ["Vue.js", "Nuxt.js", "jQuery"],
-            css: ["Vuetify", "Bootstrap"]
+            js: ['Vue.js', 'Nuxt.js', 'React.js', 'jQuery'],
+            css: ['Vuetify', 'Bootstrap', 'Sass']
         },
         backend: {
-            js: ["Node.js", "Express"]
+            js: ['Node.js', 'Express']
         },
-        database: ["MongoDB", "PostgreSQL", "SQLite"]
+        database: ['MongoDB', 'PostgreSQL', 'SQLite']
     },
-    currentProject: {
-        name: "CookShare",
-        description: `A web app allowing users to share cookbooks with
-            family and friends while keeping their recipes private`,
-        url: "https://cookshare.herokuapp.com"
-    },
-    hobbies: ["climbing", "camping", "gaming"]
+    hobbies: ["climbing", "camping", "gaming"],
+    projects: 'https://727021.github.io/projects'
 }
 ```
 
