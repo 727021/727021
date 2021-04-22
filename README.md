@@ -7,10 +7,11 @@ I like to write code, play games, and climb rocks. Here's a little about me:
 - *TA* for *Web Backend Development II* at *[BYU-Idaho](https://byui.edu)*
 - *Software Development Intern* at *The Church of Jesus Christ of Latter-day Saints*
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge)](https://727021.github.io)
+[![GitHub Pages](https://img.shields.io/badge/github%20pages-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white")](https://727021.github.io)
 [![Github Followers](https://img.shields.io/github/followers/727021?label=Follow&style=for-the-badge&logo=github)](https://github.com/727021?tab=followers)
-[![Linkedin](https://img.shields.io/badge/-aschim-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewschim/)](https://www.linkedin.com/in/andrewschim/)
-[![StackOverflow](https://img.shields.io/badge/-727021-orange?logo=stack-overflow&style=for-the-badge&logoColor=white&link=https://stackoverflow.com/users/2031203/727021)](https://stackoverflow.com/users/2031203/727021)
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewschim/)
+[![StackOverflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2031203/727021)
+[![Dev.to Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/727021)
 
 ---
 
