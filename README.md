@@ -1,11 +1,11 @@
 👋 Hi, I'm Andrew Schimelpfening!
 ---
 
-I like to write code, play games, and climb rocks. Here's a little about me:
+I like to write code💻, play games🕹️, and climb rocks🧗‍♂️. Here's a little about me:
 
-- Studying *Computer Science* at *[BYU-Idaho](https://byui.edu)*
-- *TA* for *Web Backend Development II* at *[BYU-Idaho](https://byui.edu)*
-- *Software Development Intern* at *The Church of Jesus Christ of Latter-day Saints*
+- 🎓Studying *Computer Science* at *[BYU-Idaho](https://byui.edu)*
+- 👨‍🏫*TA* for *Web Backend Development II* at *[BYU-Idaho](https://byui.edu)*
+- 🖥️*Software Development Intern* at *The Church of Jesus Christ of Latter-day Saints*
 
 [![GitHub Pages](https://img.shields.io/badge/github%20pages-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white")](https://727021.github.io)
 [![Github Followers](https://img.shields.io/github/followers/727021?label=Follow&style=for-the-badge&logo=github)](https://github.com/727021?tab=followers)
@@ -18,7 +18,7 @@ I like to write code, play games, and climb rocks. Here's a little about me:
 ### Languages
 
 <p style="text-align: center;">
-  
+
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
