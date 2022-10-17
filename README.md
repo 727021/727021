@@ -3,8 +3,7 @@
 
 I like to write code💻, play games🕹️, and climb rocks🧗‍♂️. Here's a little about me:
 
-- 🎓Studying *Computer Science* at *[BYU-Idaho](https://byui.edu)*
-- 🖥️*Software Development Intern* at *The Church of Jesus Christ of Latter-day Saints*
+- 🖥️*Full-Stack Developer* at *The Church of Jesus Christ of Latter-day Saints*
 
 [![Github Followers](https://img.shields.io/github/followers/727021?label=Follow&style=for-the-badge&logo=github)](https://github.com/727021?tab=followers)
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewschim/)
